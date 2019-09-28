@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"AUTO.C": "cpp",
+		"INOUT.C": "cpp",
+		"EDIT.C": "cpp",
+		"FONT.C": "cpp",
+		"QUICKGR.C": "cpp",
+		"DEMO.C": "cpp"
+	}
+}
